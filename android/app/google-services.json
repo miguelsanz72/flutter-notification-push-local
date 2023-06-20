@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "1090976848963",
+    "firebase_url": "https://dsn-pushapp.firebaseio.com",
+    "project_id": "dsn-pushapp",
+    "storage_bucket": "dsn-pushapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090976848963:android:e1c115237c84cea36a88f6",
+        "android_client_info": {
+          "package_name": "com.app.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090976848963-03p599gtkh44nbfahc4jfq9mphoscago.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qmpaE4NOZA4rEPV3LeUNigmwd4wtRt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090976848963-03p599gtkh44nbfahc4jfq9mphoscago.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090976848963-hjsooi7nc8tioogt0kf15h5mm9hmq14q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090976848963:android:a5a3867d8ddd2b8f6a88f6",
+        "android_client_info": {
+          "package_name": "com.fernandoherrera.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090976848963-03p599gtkh44nbfahc4jfq9mphoscago.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qmpaE4NOZA4rEPV3LeUNigmwd4wtRt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090976848963-03p599gtkh44nbfahc4jfq9mphoscago.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090976848963-hjsooi7nc8tioogt0kf15h5mm9hmq14q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090976848963:android:dc34d730831478516a88f6",
+        "android_client_info": {
+          "package_name": "com.pushapp.ms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090976848963-03p599gtkh44nbfahc4jfq9mphoscago.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qmpaE4NOZA4rEPV3LeUNigmwd4wtRt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090976848963-03p599gtkh44nbfahc4jfq9mphoscago.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090976848963-hjsooi7nc8tioogt0kf15h5mm9hmq14q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
